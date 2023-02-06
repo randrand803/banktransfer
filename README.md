@@ -76,3 +76,8 @@ ENTRYPOINT ["java","-jar","/spring-boot-docker.jar"]
 
 *"banking" is container name and "test" is docker image name
 
+
+
+
+Note: It was supposed be deployed on Kubernetes on Google cloud. However, due to some erros on cloud.google and I was unable to fix it, so I left it.Yet,  It can be ran on Docker container locally.  
+
