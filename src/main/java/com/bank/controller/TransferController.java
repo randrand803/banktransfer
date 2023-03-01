@@ -51,4 +51,9 @@ public class TransferController {
         return "Hello";
     }
 
+
+    public String Hihi(){
+        return "hi123";
+    }
+
 }
